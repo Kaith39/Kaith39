@@ -1,4 +1,4 @@
-# Bonjour, je suis Perle_raaare 👋
+# Bonjour, on me surnomme Perle_raaare 👋
 
 Je suis Ingénieure en Informatique et Télécommunications avec une passion pour l'IA, le Big Data, la Data Science, l'IoT, le NLP et la sécurité informatique.
 
